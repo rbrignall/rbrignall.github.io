@@ -13,7 +13,7 @@ If you enjoy the games, please consider supporting my work:
 Here are five games you can play online, for free:
 
 - [Byrdle](https://www.byrdle.net/): The surprisingly-popular niche choral-themed word guessing game (a bit like [Wordle](https://www.nytimes.com/games/wordle/index.html)).
-- [Angry Byrds](https://angrybyrds.rbrignall.org.uk): A William Byrd-themed variant of the popular game [Angry Birds](https://angrybirds.com), created to mark Byrd's 400th anniversary. For other anniversary events in 2023, visit [Byrd Central](https://www.byrdcentral.com/).
+- [Angry Byrds](https://angrybyrds.rbrignall.org.uk): A William Byrd-themed variant of the popular game [Angry Birds](https://www.angrybirds.com), created to mark Byrd's 400th anniversary. For other anniversary events in 2023, visit [Byrd Central](https://www.byrdcentral.com/).
 - [Susie](https://susie.rbrignall.org.uk): A word guessing-game where Wordle meets Countdown. Test your powers of logical deduction to find Susie's word. This project is a collaboration with composer [Ben Ponniah](https://benponniah.com/).
 - [Musidoku®](https://musidoku.com/): An online version of the musical variation of the classic Sudoku number-place puzzle. This was written for [Antony Kearns](https://antonykearns.com/), author of the bestselling Musidoku® series of books.
 - [Numble](https://rbrignall.github.io/numble/): A mathematically-themed version of [Wordle](https://www.nytimes.com/games/wordle/index.html).
