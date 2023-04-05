@@ -10,8 +10,9 @@ If you enjoy the games, please consider supporting my work:
 
 ### My games
 
-Here are five games you can play online, for free:
+Here are six games you can play online, for free:
 
+- [Digit Party](https://digit.party): Place numbers in a grid, and score points when adjacent cells have matching numbers. Curiously addictive. A collaboration with fellow mathematician [Vince Vatter](https://twitter.com/VinceVatter).
 - [Byrdle](https://www.byrdle.net/): The surprisingly-popular niche choral-themed word guessing game (a bit like [Wordle](https://www.nytimes.com/games/wordle/index.html)).
 - [Angry Byrds](https://angrybyrds.rbrignall.org.uk): A William Byrd-themed variant of the popular game [Angry Birds](https://www.angrybirds.com), created to mark Byrd's 400th anniversary. For other anniversary events in 2023, visit [Byrd Central](https://www.byrdcentral.com/).
 - [Susie](https://susie.rbrignall.org.uk): A word guessing-game where Wordle meets Countdown. Test your powers of logical deduction to find Susie's word. This project is a collaboration with composer [Ben Ponniah](https://benponniah.com/).
@@ -20,4 +21,4 @@ Here are five games you can play online, for free:
 
 ### Github projects
 
-The games above are open source. You should [check out the list of repositories](https://github.com/rbrignall/) if you want to take a look.
+Most of the games above are open source. You should [check out the list of repositories](https://github.com/rbrignall/) if you want to take a look.
