@@ -22,3 +22,6 @@ Here are six games you can play online, for free:
 ### Github projects
 
 Most of the games above are open source. You should [check out the list of repositories](https://github.com/rbrignall/) if you want to take a look.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2276519097140776"
+     crossorigin="anonymous"></script>
