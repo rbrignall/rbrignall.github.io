@@ -1,6 +1,6 @@
 ## Welcome to rbrignall's GitHub Page
 
-Most of the time, I am an academic mathematician working at The Open University. For that part of my life, you might have ended up here looking for my [academic website](http://users.mct.open.ac.uk/rb8599/).
+Most of the time, I am an academic mathematician working at The Open University. For that part of my life, you might have ended up here looking for my [academic website](http://www.rbrignall.org.uk).
 
 In my spare time, among other things, I've written a few online games. I'm especially interested in developing games or puzzles that intersect with my interests in maths (including logic) and/or music.
 
